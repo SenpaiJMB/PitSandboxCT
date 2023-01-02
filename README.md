@@ -1,4 +1,4 @@
-# PitSandboxCT
+# PitSandbox v1.0.0
 PitSandbox Chattrigger for Harry's Sandbox
 
 # Change Log
