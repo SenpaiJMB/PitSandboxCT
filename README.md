@@ -1,9 +1,6 @@
 # PitSandbox v1.0.0
-PitSandbox Chattrigger for Harry's Sandbox
 
-# Change Log
-
-# New Features
+## New Features
 - Target Info
 - Egg Effect Display Timers
 
