@@ -5,7 +5,5 @@
     "description": "Pit Sandbox ChatTriggers",
     "entry": "index.js",
     "version": "1.0.0",
-    "requires": [
-        "Vigilance"
-    ]
+    "requires": ["Vigilance"]
 }
