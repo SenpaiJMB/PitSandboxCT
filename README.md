@@ -1,3 +1,10 @@
+# PitSandbox v1.0.1
+
+##Fixes
+- Corrected XP amount for prestiges 55-60
+- Added harrys.gg as an ip to dectect if you're on the server
+
+
 # PitSandbox v1.0.0
 
 ## New Features
