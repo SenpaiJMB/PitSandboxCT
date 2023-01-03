@@ -4,6 +4,6 @@
     "author": "PitSandbox Developers",
     "description": "Pit Sandbox ChatTriggers",
     "entry": "index.js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "requires": ["Vigilance"]
 }
